@@ -2,11 +2,14 @@
 Código Hexadecimal verde: #8EC641
 Código Hexadecimal gris footer: #3B3B3B
 */
+
+
+
 *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box:
-	font-family: 'Raleway';
+	font-family: 'Raleway', ;
 	font-size: 16px;
 }
 
@@ -99,9 +102,10 @@ footer{
 	color: white;
 }
 
-#titulo h1{
+#text1{
 	background-size:cover;
 	background-color: green; 
 	text-align: center;
 
 }
+
